@@ -5,7 +5,6 @@
 <http://cs231n.stanford.edu/imagenet_val_25.npz>
 放置在 assignment1\cs231n\datasets 目录下
 2. 解压 cifar-10-python.tar.gz 到 assignment1\cs231n\datasets\cifar-10-batches-py 目录
-3. 运行 assignment1\cs231n\classifiers\k_nearest_neighbor.py
 
 ## 文件结构
 
